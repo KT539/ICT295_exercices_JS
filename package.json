@@ -1,0 +1,19 @@
+{
+  "name": "ex_js",
+  "version": "1.0.0",
+  "description": "javascript basic training",
+  "main": "exercices_JS.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KT539/ICT295_exercices_JS.git"
+  },
+  "author": "Kilian Testard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KT539/ICT295_exercices_JS/issues"
+  },
+  "homepage": "https://github.com/KT539/ICT295_exercices_JS#readme"
+}
