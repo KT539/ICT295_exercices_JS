@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KT539/ICT295_exercices_JS/issues"
   },
-  "homepage": "https://github.com/KT539/ICT295_exercices_JS#readme"
+  "homepage": "https://github.com/KT539/ICT295_exercices_JS#readme",
+  "dependencies": {
+    "dayjs": "^1.11.13"
+  }
 }
